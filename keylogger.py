@@ -13,7 +13,7 @@ text = ""
 
 # Hard code the values of your server and ip address here.
 ip_address = "45.79.76.142"
-port_number = "8080"
+port_number = "7680"
 # Time interval in seconds for code to execute.
 time_interval = 10
 
